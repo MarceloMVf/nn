@@ -1,0 +1,44 @@
+body{ 
+    background-image: url('imagem/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#cabecalho{
+    text-align: center;
+    font-size: 60px;
+}
+
+#start{ 
+    background-color: rgb(84, 84, 84);
+    border: none;
+}
+
+h2, h3 { 
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#imagens {
+    height: 100 px;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(141, 28, 28);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#inicio{ 
+    font-size: 30px;
+    font-style: bold;
+    text-shadow: 01 5px 0 rgba(rgb(255, 255, 255), 255);
+    color: rgb(92, 4, 4)    ;
+}
+
+h2 {
+    color: rgb(92, 4, 4);
+    text-shadow: 0 1px 0;
+}
